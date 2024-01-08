@@ -1,6 +1,6 @@
 {
   "name": "react-native-azure-speech-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Package that provides text to speech and speech to text using azure speech sdk.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
